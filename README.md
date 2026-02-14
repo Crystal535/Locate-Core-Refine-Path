@@ -8,7 +8,7 @@
 
 
 ### Segmentation Result
-<p float="left">
+<p>
   <img src="demo/Fig.png" width="500" />
 </p>
 
