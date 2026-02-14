@@ -1,14 +1,14 @@
 ## LCRP: Locate-Core-Refine-Path
 ### Demo Video
 **Note:** The demo video is large, please wait patiently.
-<p float="left">
+<p align="center">
   <img src="demo/video_1.gif" width="45%" />
   <img src="demo/video_2.gif" width="45%" />
 </p>
 
 
 ### Segmentation Result
-<p>
+<p align="center">
   <img src="demo/Fig.png" width="500" />
 </p>
 
