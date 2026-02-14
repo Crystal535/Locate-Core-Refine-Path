@@ -3,6 +3,10 @@
   <img src="https://github.com/Crystal535/Locate-Core-Refine-Path/blob/main/LCRP-main/LRPC.png" width="500" />
 </p>
 
+## Privacy & Personal Data Statement 
+We are committed to protecting privacy. This repository **does not collect, store, share, or disclose any personally identifiable information (PII)**. All code, models, and resources provided here are intended solely for research and engineering purposes, and **do not include** user identifiers, biometric data, private accounts, or any information that can be used to identify a specific individual.
+
+
 
 ## LCRP: Locate-Core-Refine-Path
 ### Demo Video
