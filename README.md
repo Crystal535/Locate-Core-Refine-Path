@@ -9,7 +9,7 @@
 
 ### Segmentation Result
 <p align="center">
-   <img src="demo/results.png" width=600 />
+   <img src="https://github.com/Crystal535/Locate-Core-Refine-Path/blob/main/LCRP-main/LRPC.png" width="500" />
 </p>
 
 
