@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/Crystal535/Locate-Core-Refine-Path/blob/main/LCRP-main/LRPC.png" width="500" />
+</p>
+
+
 ## LCRP: Locate-Core-Refine-Path
 ### Demo Video
 **Note:** The demo video is large, please wait patiently.
