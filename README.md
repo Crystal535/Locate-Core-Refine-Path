@@ -15,7 +15,7 @@
 
 ### Segmentation Result
 <p align="center">
-   <img src="https://github.com/Crystal535/Locate-Core-Refine-Path/blob/main/LCRP-main/LRPC.png" width="500" />
+   <img src="https://github.com/Crystal535/Locate-Core-Refine-Path/blob/main/LCRP-main/results.png" width="500" />
 </p>
 
 
