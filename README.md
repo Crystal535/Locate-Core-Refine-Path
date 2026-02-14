@@ -13,7 +13,9 @@
 </p>
 
 
-### Segmentation Result
+
+### Segmentation Results 
+- Binary Segmentation Results 
 <p align="center">
    <img src="https://github.com/Crystal535/Locate-Core-Refine-Path/blob/main/LCRP-main/results.png" width="500" />
 </p>
@@ -114,9 +116,6 @@
 > **Note:** Both SOC and ReferDINO are trained and inferred on an **A100-40G GPU** with `batch_size=1`.  
 > Our model is inferred on a single **RTX 4090-24G GPU** with `batch_size=1`.
 
-### Segmentation Results 
-- Binary Segmentation Results of Fig. 4.
-![](demo/Figure%204.png)
 
 ### The code will be released soon
 
