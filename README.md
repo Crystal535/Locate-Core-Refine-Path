@@ -6,6 +6,13 @@
   <img src="demo/video_2.gif" width="45%" />
 </p>
 
+
+### Segmentation Result
+<p float="left">
+  <img src="demo/Figure 4.png" width="600" />
+</p>
+
+
 ### More ablation studies
 - Ref-DAVIS17
 
