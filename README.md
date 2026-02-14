@@ -9,7 +9,7 @@
 
 ### Segmentation Result
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Crystal535/Locate-Core-Refine-Path/main/demo/Fig.png" width="500" />
+   <img src="demo/Fig.png" width="500" />
 </p>
 
 
