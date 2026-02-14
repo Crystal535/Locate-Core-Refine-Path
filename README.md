@@ -9,7 +9,7 @@
 
 ### Segmentation Result
 <p float="left">
-  <img src="demo/Figure 4.png" width="600" />
+  <img src="demo/Figure4.png" width="600" />
 </p>
 
 
