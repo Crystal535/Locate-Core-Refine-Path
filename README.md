@@ -9,7 +9,7 @@
 
 ### Segmentation Result
 <p align="center">
-   <img src="demo/Fig.png" width="45%" />
+   <img src="demo/figure3.png" width=600 />
 </p>
 
 
